@@ -3,7 +3,7 @@
 **LensCraft** is a modern, responsive photography portfolio website. This project showcases the transformation of a high-fidelity Figma design into a pixel-perfect, fully functional web interface using **Tailwind CSS** and **HTML5**.
 
 ##  Live Demo
-Check out the live site here: https://antick-arch.github.io/project-photography-website/](https://antick-arch.github.io/LensCraft-A-Photography-Portfolio-Figma-to-Tailwind/
+Check out the live site here: https://antick-arch.github.io/LensCraft-A-Photography-Portfolio-Figma-to-Tailwind/
 
 ##  Features
 - **Pixel-Perfect Implementation:** Translated every detail from Figma into clean, maintainable code.
