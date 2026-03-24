@@ -1,4 +1,4 @@
-# LensCraft – A Premium Photography Portfolio (Figma to Tailwind) 📸
+# LensCraft – A Premium Photography Portfolio (Figma to Tailwind) 
 
 **LensCraft** is a modern, responsive photography portfolio website. This project showcases the transformation of a high-fidelity Figma design into a pixel-perfect, fully functional web interface using **Tailwind CSS** and **HTML5**.
 
